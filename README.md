@@ -1,2 +1,2 @@
 # emoji
-kiss emoji using pyhton turtle 
+ emoji using pyhton turtle 
